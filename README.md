@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first gir project!
+BookBot is my first git project!
